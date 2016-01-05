@@ -1,6 +1,6 @@
-# 清水基
-http://nuafk.jp
-http://backspace.tokyo
+	清水基
+	http://nuafk.jp
+	http://backspace.tokyo
 
 ## 200文字
 
